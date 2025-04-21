@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nitesh Bhandari | Game Developer</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background: #4a148c;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #4a148c;
+    }
+    ul {
+      padding-left: 1.5rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #4a148c;
+      color: white;
+    }
+    a {
+      color: #4a148c;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Nitesh Bhandari</h1>
+    <p>Fun and Entertainment Game Developer</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>
+      I'm a passionate game developer currently studying Computer Science at Troy University and Dallas College.
+      My focus is on creating engaging, non-real-money social casino games, with over 20+ slot games in development,
+      each with unique themes. I'm also diving deep into Artificial Intelligence, using it to tackle complex real-world problems
+      and enhance the gaming experience through intelligent design.
+    </p>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>C++</li>
+      <li>Java</li>
+      <li>Python</li>
+      <li>Artificial Intelligence</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <p>
+      <strong>Social Casino Platform</strong><br />
+      A personal project featuring more than 20 slot games with diverse themes, aiming to deliver fun without real money involvement.
+    </p>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:Niteshbhandari900@gmail.com">Niteshbhandari900@gmail.com</a></p>
+    <p>LinkedIn / GitHub / other links (Nitesh bhandari !)</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Nitesh Bhandari. All rights reserved.
+  </footer>
+
+</body>
+</html>
